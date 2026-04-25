@@ -2,14 +2,14 @@
 python-telegram-bot==21.0
 
 # HTTP клиент
-aiohttp==3.13.3
+aiohttp==3.13.4
 
 # Парсинг HTML
 beautifulsoup4==4.12.2
-lxml==5.1.0
+lxml==6.1.0
 
 # Переменные окружения
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 
 # AI API
 anthropic==0.18.1
